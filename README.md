@@ -1,7 +1,3 @@
-Author:  Rich Grimes
-Twitter:  @saltyCoder
-
-Copyright (C) 2014 by Rich Grimes
 
 ---------------------------------------------------------------------------
 
